@@ -1,0 +1,25 @@
+//目录树
+main(){
+    startgame();//已经完成就不继续列目录了
+    playgame(){
+        datafiel(){
+            struct data{
+                struct snack;
+                struct food;
+            };
+            for(){
+                if(snack_yn()){
+                    putimage();
+                    //结果这里还是没有完成
+                }
+            }
+            //当吃到食物的时候，
+            creatbody(&snack);
+            并增加 snack->snack_lifetime的大小
+            //如果我会类就好了，早知道当初就先把c++学一点
+            //至少先在的用处还是很大的
+        }
+        //数据处理完成了之后
+        //就该是图像输出了
+    }
+}
